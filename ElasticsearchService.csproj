@@ -9,7 +9,7 @@
 		<PackageId>ElasticsearchService</PackageId>
 		<!-- Your package ID -->
 		
-		<Version>1.0.2</Version>
+		<Version>1.0.3</Version>
 		<!-- Update the version number as needed -->
 		<Authors>Atik</Authors>
 		<!-- Replace with your name or company name -->
@@ -17,11 +17,11 @@
 		<!-- Optional: Replace with your company name -->
 		<PackageDescription>A library for managing Elasticsearch operations in .NET 8.0 applications.</PackageDescription>
 		<PackageTags>Elasticsearch;NEST;Search</PackageTags>
-		<RepositoryUrl>https://github.com/coc13259/ElasticsearchService</RepositoryUrl>
+		<RepositoryUrl>https://github.com/atikur01/ElasticsearchService</RepositoryUrl>
 		<!-- Replace with your GitHub repo URL -->
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
 		<!-- Replace with the license you're using -->
-		<PackageProjectUrl>https://github.com/coc13259/ElasticsearchService</PackageProjectUrl>
+		<PackageProjectUrl>https://github.com/atikur01/ElasticsearchService</PackageProjectUrl>
 		<!-- Replace with the project URL -->
 		<RepositoryType>git</RepositoryType>
 		<PackageIconUrl>https://sue.eu/wp-content/uploads/sites/6/2022/07/elastic-logo-920x920-sue-v02.png</PackageIconUrl>

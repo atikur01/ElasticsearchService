@@ -5,7 +5,7 @@
   },
   "projects": {
     "D:\\ElasticsearchService\\ElasticsearchService.csproj": {
-      "version": "1.0.1",
+      "version": "1.0.3",
       "restore": {
         "projectUniqueName": "D:\\ElasticsearchService\\ElasticsearchService.csproj",
         "projectName": "ElasticsearchService",
