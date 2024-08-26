@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Atik Apps")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.1.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+e8a06f413e09e7dda79f4224fada82dd005d2b3b")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.1+82e4b26f79d53acc700ff6e1be7679ce4902487a")]
 [assembly: System.Reflection.AssemblyProductAttribute("ElasticsearchService")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ElasticsearchService")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.1.0")]
