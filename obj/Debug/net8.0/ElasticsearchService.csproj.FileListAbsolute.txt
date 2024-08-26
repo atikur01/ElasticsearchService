@@ -24,3 +24,6 @@ D:\ElasticsearchService\obj\Debug\net8.0\ElasticsearchService.dll
 D:\ElasticsearchService\obj\Debug\net8.0\refint\ElasticsearchService.dll
 D:\ElasticsearchService\obj\Debug\net8.0\ElasticsearchService.pdb
 D:\ElasticsearchService\obj\Debug\net8.0\ref\ElasticsearchService.dll
+D:\ElasticsearchService\artifacts\net8.0\ElasticsearchService.deps.json
+D:\ElasticsearchService\artifacts\net8.0\ElasticsearchService.dll
+D:\ElasticsearchService\artifacts\net8.0\ElasticsearchService.pdb

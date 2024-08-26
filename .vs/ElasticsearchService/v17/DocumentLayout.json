@@ -23,12 +23,12 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ElasticsearchService",
+              "Title": "ElasticsearchService.csproj",
               "DocumentMoniker": "D:\\ElasticsearchService\\ElasticsearchService.csproj",
               "RelativeDocumentMoniker": "ElasticsearchService.csproj",
               "ToolTip": "D:\\ElasticsearchService\\ElasticsearchService.csproj",
               "RelativeToolTip": "ElasticsearchService.csproj",
-              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAAAAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAoAAAACAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
               "WhenOpened": "2024-08-26T06:54:32.297Z",
               "EditorCaption": ""
@@ -43,8 +43,7 @@
               "RelativeToolTip": "ElasticsearchService.cs",
               "ViewState": "AQIAAGwAAAAAAAAAAABCwHkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-08-26T06:51:19.47Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-08-26T06:51:19.47Z"
             }
           ]
         }
