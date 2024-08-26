@@ -1,4 +1,4 @@
-**Documentation for ElasticsearchService NuGet Package (Version 1.0.2)** 
+**Documentation for ElasticsearchService NuGet Package** 
 
 **Overview** 
 
@@ -8,7 +8,7 @@ The ElasticsearchService class provides a simple and flexible way to interact wi
 
 To install the ElasticsearchService package, run the following command in the Package Manager Console: 
 
-Install-Package ElasticsearchService -Version 1.0.2 
+Install-Package ElasticsearchService
 
 **Usage** 
 
