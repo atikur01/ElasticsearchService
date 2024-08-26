@@ -17,11 +17,14 @@ jobs:
     - name: Install GitVersion
       uses: gittools/actions/gitversion/setup@v0.9.14
       with:
-        versionSpec: '5.x'
+        versionSpec: '5.x'  # This installs GitVersion
 
     - name: Determine version
       id: gitversion
-      run: gitversion /output json /showvariable SemVer
+      run: |
+        echo "Determining version..."
+        gitversion /output json /showvariable SemVer
+      continue-on-error: false
 
     - name: Setup .NET SDK
       uses: actions/setup-dotnet@v3
