@@ -17,8 +17,9 @@ Install-Package ElasticsearchService
 First, you need to create an instance of ElasticsearchService. This requires an instance of IElasticClient and the name of the index you want to work with. 
 
 using atikapps; 
+using Elasticsearch.Net;
 
-var settings = new ConnectionSettings(new Uri("http://localhost:9200"))     .DefaultIndex("your-index-name"); 
+var settings = new ConnectionSettings(new Uri("http://localhost:9200")).DefaultIndex("your-index-name"); 
 
 var client = new ElasticClient(settings); 
 
@@ -68,7 +69,16 @@ var documents = await elasticsearchService.GetAll<object>();
 
 You can perform custom queries using the Query method. Pass a QueryContainer to define the query. 
 
-var predicate = new TermQuery { Field = "fieldName", Value = "value" }; var results = await elasticsearchService.Query<object>(predicate); 
+var keyword = "your-search-keyword";
+var query = new SimpleQueryStringQuery
+{
+    Query = keyword,
+    DefaultOperator = Operator.And
+};
+
+// Search items
+_elasticsearchService.Index("your-index-name");
+var resultsItems = await _elasticsearchService.Query<dynamic>(query); 
 
 6. **Deleting Documents** 
 
