@@ -4,7 +4,7 @@ on:
   push:
     branches:
       - main
-      - 'release/*'
+      - 'release/*'  # Runs on push to any release branch
 
 jobs:
   build:
@@ -14,19 +14,10 @@ jobs:
     - name: Checkout code
       uses: actions/checkout@v3
 
-    - name: Install GitVersion
-      uses: gittools/actions/gitversion/setup@v0.9.14
-      with:
-        versionSpec: '5.x'
-
-    - name: Determine version
-      id: gitversion
-      run: gitversion /output json /showvariable SemVer
-
     - name: Setup .NET SDK
       uses: actions/setup-dotnet@v3
       with:
-        dotnet-version: '8.x'
+        dotnet-version: '7.x'  # Set your .NET SDK version
 
     - name: Restore dependencies
       run: dotnet restore
@@ -38,10 +29,9 @@ jobs:
       run: dotnet test --no-restore --verbosity normal
 
     - name: Pack NuGet package
-      run: |
-        dotnet pack --configuration Release --no-build --output ./artifacts /p:PackageVersion=${{ steps.gitversion.outputs.SemVer }}
+      run: dotnet pack --configuration Release --no-build --output ./artifacts
 
     - name: Publish NuGet package
       env:
-        NUGET_API_KEY: ${{ secrets.NUGET_API_KEY }}
+        NUGET_API_KEY: ${{ secrets.NUGET_API_KEY }}  # Add this secret in your repository settings
       run: dotnet nuget push "./artifacts/*.nupkg" --api-key $NUGET_API_KEY --source https://api.nuget.org/v3/index.json
