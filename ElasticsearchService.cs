@@ -1,6 +1,6 @@
 ﻿using Nest;
 
-namespace ElasticsearchService
+namespace atikapps
 {
     public class ElasticsearchService
     {
