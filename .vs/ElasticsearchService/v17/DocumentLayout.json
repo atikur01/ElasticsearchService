@@ -1,9 +1,13 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "D:\\ElasticsearchService\\ElasticsearchService\\",
+  "WorkspaceRootPath": "D:\\ElasticsearchService\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{CF9A1B53-9364-407A-A60F-475E0189DE7E}|ElasticsearchService.csproj|d:\\elasticsearchservice\\elasticsearchservice\\elasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{CF9A1B53-9364-407A-A60F-475E0189DE7E}|ElasticsearchService.csproj|d:\\elasticsearchservice\\elasticsearchservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{CF9A1B53-9364-407A-A60F-475E0189DE7E}|ElasticsearchService.csproj|solutionrelative:elasticsearchservice.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9A1B53-9364-407A-A60F-475E0189DE7E}|ElasticsearchService.csproj|d:\\elasticsearchservice\\elasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{CF9A1B53-9364-407A-A60F-475E0189DE7E}|ElasticsearchService.csproj|solutionrelative:elasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "ElasticsearchService",
+              "DocumentMoniker": "D:\\ElasticsearchService\\ElasticsearchService.csproj",
+              "RelativeDocumentMoniker": "ElasticsearchService.csproj",
+              "ToolTip": "D:\\ElasticsearchService\\ElasticsearchService.csproj",
+              "RelativeToolTip": "ElasticsearchService.csproj",
+              "ViewState": "AQIAABUAAAAAAAAAAAAAACQAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-26T06:54:32.297Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ElasticsearchService.cs",
-              "DocumentMoniker": "D:\\ElasticsearchService\\ElasticsearchService\\ElasticsearchService.cs",
+              "DocumentMoniker": "D:\\ElasticsearchService\\ElasticsearchService.cs",
               "RelativeDocumentMoniker": "ElasticsearchService.cs",
-              "ToolTip": "D:\\ElasticsearchService\\ElasticsearchService\\ElasticsearchService.cs",
+              "ToolTip": "D:\\ElasticsearchService\\ElasticsearchService.cs",
               "RelativeToolTip": "ElasticsearchService.cs",
-              "ViewState": "AQIAAGwAAAAAAAAAAAA1wHkAAAAJAAAA",
+              "ViewState": "AQIAAGwAAAAAAAAAAABCwHkAAAAJAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2024-08-26T06:51:19.47Z",
               "EditorCaption": ""

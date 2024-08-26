@@ -252,11 +252,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\ElasticsearchService\\ElasticsearchService\\ElasticsearchService.csproj",
+      "projectUniqueName": "D:\\ElasticsearchService\\ElasticsearchService.csproj",
       "projectName": "ElasticsearchService",
-      "projectPath": "D:\\ElasticsearchService\\ElasticsearchService\\ElasticsearchService.csproj",
+      "projectPath": "D:\\ElasticsearchService\\ElasticsearchService.csproj",
       "packagesPath": "C:\\Users\\ASUS\\.nuget\\packages\\",
-      "outputPath": "D:\\ElasticsearchService\\ElasticsearchService\\obj\\",
+      "outputPath": "D:\\ElasticsearchService\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "D:\\Software\\Visual Studio\\Shared\\NuGetPackages"

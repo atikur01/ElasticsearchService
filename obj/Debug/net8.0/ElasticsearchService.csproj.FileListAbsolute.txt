@@ -11,3 +11,16 @@ D:\ElasticsearchService\ElasticsearchService\obj\Debug\net8.0\ElasticsearchServi
 D:\ElasticsearchService\ElasticsearchService\obj\Debug\net8.0\refint\ElasticsearchService.dll
 D:\ElasticsearchService\ElasticsearchService\obj\Debug\net8.0\ElasticsearchService.pdb
 D:\ElasticsearchService\ElasticsearchService\obj\Debug\net8.0\ref\ElasticsearchService.dll
+D:\ElasticsearchService\bin\Debug\net8.0\ElasticsearchService.deps.json
+D:\ElasticsearchService\bin\Debug\net8.0\ElasticsearchService.dll
+D:\ElasticsearchService\bin\Debug\net8.0\ElasticsearchService.pdb
+D:\ElasticsearchService\obj\Debug\net8.0\ElasticsearchService.csproj.AssemblyReference.cache
+D:\ElasticsearchService\obj\Debug\net8.0\ElasticsearchService.GeneratedMSBuildEditorConfig.editorconfig
+D:\ElasticsearchService\obj\Debug\net8.0\ElasticsearchService.AssemblyInfoInputs.cache
+D:\ElasticsearchService\obj\Debug\net8.0\ElasticsearchService.AssemblyInfo.cs
+D:\ElasticsearchService\obj\Debug\net8.0\ElasticsearchService.csproj.CoreCompileInputs.cache
+D:\ElasticsearchService\obj\Debug\net8.0\ElasticsearchService.sourcelink.json
+D:\ElasticsearchService\obj\Debug\net8.0\ElasticsearchService.dll
+D:\ElasticsearchService\obj\Debug\net8.0\refint\ElasticsearchService.dll
+D:\ElasticsearchService\obj\Debug\net8.0\ElasticsearchService.pdb
+D:\ElasticsearchService\obj\Debug\net8.0\ref\ElasticsearchService.dll
