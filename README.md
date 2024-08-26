@@ -45,8 +45,8 @@ To index a bulk of documents, use the AddOrUpdateBulk method.
 var documents = new List<object> 
 
 { 
-
-`    `new { Id = Guid.NewGuid(), Name = "Document 1" },     new { Id = Guid.NewGuid(), Name = "Document 2" } }; 
+    new { Id = Guid.NewGuid(), Name = "Document 1" },     new { Id = Guid.NewGuid(), Name = "Document 2" } 
+}; 
 
 await elasticsearchService.AddOrUpdateBulk(documents); 
 
