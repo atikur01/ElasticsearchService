@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\ElasticsearchService\\ElasticsearchService\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CF9A1B53-9364-407A-A60F-475E0189DE7E}|ElasticsearchService.csproj|d:\\elasticsearchservice\\elasticsearchservice\\elasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CF9A1B53-9364-407A-A60F-475E0189DE7E}|ElasticsearchService.csproj|solutionrelative:elasticsearchservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ElasticsearchService.cs",
+              "DocumentMoniker": "D:\\ElasticsearchService\\ElasticsearchService\\ElasticsearchService.cs",
+              "RelativeDocumentMoniker": "ElasticsearchService.cs",
+              "ToolTip": "D:\\ElasticsearchService\\ElasticsearchService\\ElasticsearchService.cs",
+              "RelativeToolTip": "ElasticsearchService.cs",
+              "ViewState": "AQIAAGwAAAAAAAAAAAA1wHkAAAAJAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T06:51:19.47Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
