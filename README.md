@@ -16,7 +16,7 @@ Install-Package ElasticsearchService
 
 First, you need to create an instance of ElasticsearchService. This requires an instance of IElasticClient and the name of the index you want to work with. 
 
-using atikapps; 
+using atikapps;
 using Elasticsearch.Net;
 
 var settings = new ConnectionSettings(new Uri("http://localhost:9200")).DefaultIndex("your-index-name"); 
