@@ -17,6 +17,7 @@
 		<!-- Optional: Replace with your company name -->
 		<PackageDescription>A library for managing Elasticsearch operations in .NET 8.0 applications.</PackageDescription>
 		<PackageTags>Elasticsearch;NEST;Search</PackageTags>
+		
 		<RepositoryUrl>https://github.com/atikur01/ElasticsearchService</RepositoryUrl>
 		<!-- Replace with your GitHub repo URL -->
 		<PackageLicenseExpression>MIT</PackageLicenseExpression>
